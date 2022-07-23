@@ -1,4 +1,3 @@
-# SCRIPT PARA DEPLOY DA SOLUÇÃO DE MAPAS DA TELIC
 #AUTOR: Franco Ferraciolli 
 #!/bin/bash
 echo "Por favor insira o nome do Monitorando, entre aspas duplas: "
